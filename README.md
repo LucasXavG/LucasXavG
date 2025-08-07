@@ -10,7 +10,7 @@ dev = {
 }
 ```
 
-## 🔥 Projeto Destaque: [Automatizador iFood](ifood-agendador)
+## 🔥 Projeto Destaque: [Automatizador iFood](https://github.com/LucasXavG/ifood-agendador)
 **Problema real, solução automatizada**
 - ⚡ Python + Selenium → Agendamento de horários automático
 - 📊 Resultado: 20+ minutos → 3 segundos
