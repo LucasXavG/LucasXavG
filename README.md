@@ -5,7 +5,8 @@
 dev = {
     "localização": "São Paulo, SP 🇧🇷",
     "foco": "Backend Development", 
-    "tech": ["Python", "Java", "JavaScript", "Spring"],
+    "tech": ["Python", "Java", "JavaScript"],
+    "estudando": ["Spring", "HTML", "CSS", "Algoritmos"],
     "especialidade": "Automação e Web Scraping"
 }
 ```
@@ -13,7 +14,7 @@ dev = {
 ## 🔥 Projeto Destaque: [Automatizador iFood](https://github.com/LucasXavG/ifood-agendador)
 **Problema real, solução automatizada**
 - ⚡ Python + Selenium → Agendamento de horários automático
-- 📊 Resultado: 20+ minutos → 3 segundos
+- 📊 Resultado: 20 segundos → 1-3 segundos
 - 🛠️ Web Scraping, DOM Manipulation, Exception Handling
 
 ## 📈 GitHub Stats
@@ -23,17 +24,7 @@ dev = {
 - [ ] Projetos Spring Boot
 - [ ] Contribuições Open Source
 
-## 🤝 Vamos Conversar?
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucas-xavier-2bb678203/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucaspessoni@outlook.com)
-
 ---
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/lucas-xavier-2bb678203/) [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail)](mailto:lucaspessoni@outlook.com)
 
-<div align="center">
-  
-**💡 "Não é sobre o código perfeito, é sobre resolver problemas reais"**
-
-![Visitor Count](https://profile-counter.glitch.me/LucasXavG/count.svg)
-
-</div>
+💡 *"Transformando problemas reais em soluções automatizadas"*
