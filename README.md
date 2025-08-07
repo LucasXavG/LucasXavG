@@ -1,15 +1,7 @@
 # 👋 Olá! Eu sou o Lucas Xavier
-### 🚀 Backend Developer em construção | ADS @ Mackenzie
+### 🚀 Estudante de ADS @ Mackenzie | São Paulo, SP
 
-```python
-dev = {
-    "localização": "São Paulo, SP 🇧🇷",
-    "foco": "Backend Development", 
-    "tech": ["Python", "Java", "JavaScript"],
-    "estudando": ["Spring", "HTML", "CSS", "Algoritmos"],
-    "especialidade": "Automação e Web Scraping"
-}
-```
+**Estudando:** Python • Java • JavaScript • Spring • MySQL
 
 ## 🔥 Projeto Destaque: [Automatizador iFood](https://github.com/LucasXavG/ifood-agendador)
 **Problema real, solução automatizada**
